@@ -26,5 +26,5 @@ Welcome to my GitHub profile! I'm a full-time coder who is passionate about tech
     <img src="https://streak-stats.demolab.com?user=sed1ka&theme=dracula&border_radius=12&card_width=540" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sed1kas&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sed1ka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sed1ka&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sed1ka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dracula" />
 </p>
