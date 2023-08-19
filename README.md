@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a full-time coder who is passionate about tech
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23F8C142.svg?style=for-the-badge&logo=tensorflow&logoColor=%23E66034)
-![Keras](https://img.shields.io/badge/TensorFlow-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23292929?style=for-the-badge&logo=androidStudio&logoColor=%233DDC84)
 ![Figma](https://img.shields.io/badge/Figma-%23180803?style=for-the-badge&logo=figma)
