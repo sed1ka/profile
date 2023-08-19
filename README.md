@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a full-time coder who is passionate about tech
 
 ## 📊 Github Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=willwees&theme=github-dark&hide_title=true&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=sed1ka&theme=dracula&border_radius=5&card_width=500" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=willwees&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willwees&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark" />
