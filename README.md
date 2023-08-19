@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm a full-time coder who is passionate about tech
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sed1ka&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sed1ka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sed1ka&theme=github_dark"/>
 </p>
