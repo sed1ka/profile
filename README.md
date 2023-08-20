@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sed1ka/)](https://www.linkedin.com/in/williamsuyanto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sedika.email@gmail.com)](mailto:sedika.email@gmail.com)
 
-Welcome to my GitHub profile! I'm a full-time coder who is passionate about technology and graphic design. I also have good taste in making designs, especially in UI UX although I have intermediate skills in terms of coding. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sed1ka/)!
+Someone who is passionate about technology and graphic design. I also have good taste in making designs, especially in UI UX although I have intermediate skills in terms of coding. Let's get [connected](https://www.linkedin.com/in/sed1ka/)!
 
 ## ⚡ Languages, Technologies & Tools 
 
