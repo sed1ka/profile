@@ -10,7 +10,7 @@ Someone who is passionate about technology and graphic design. I also have good 
 ## ⚡ Languages, Technologies & Tools 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=%2308d3b9)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FED847)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=%23121212)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
