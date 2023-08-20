@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a full-time coder who is passionate about tech
 
 ## 📊 Github Stats
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=sed1ka&theme=dracula&border_radius=12&card_width=540" />
+    <img src="https://streak-stats.demolab.com?user=sed1ka&theme=dracula&hide_border=true&border_radius=10&card_width=540" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sed1ka&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sed1ka&hide=html&&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=sed1ka&hide_title=true&hide_border=true&border_radius=15&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sed1ka&hide=html&hide_border=true&border_radius=15&layout=compact&langs_count=8&theme=dracula"/>
 </p>
