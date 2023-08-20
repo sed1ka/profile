@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sed1ka&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=sed1ka&color=blue" alt="Profile Visits" align="right">
 
 # Hi, Septian Dika here 👋
 
@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sedika.email@gmail.com)](mailto:sedika.email@gmail.com)
 
 Someone who is passionate about technology and graphic design. I also have good taste in making designs, especially in UI UX although I have intermediate skills in terms of coding. Let's get [connected](https://www.linkedin.com/in/sed1ka/)!
+
 
 ## ⚡ Languages, Technologies & Tools 
 
@@ -20,6 +21,7 @@ Someone who is passionate about technology and graphic design. I also have good 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23292929?style=for-the-badge&logo=androidStudio&logoColor=%233DDC84)
 ![Figma](https://img.shields.io/badge/Figma-%23180803?style=for-the-badge&logo=figma)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 
 ## 📊 Github Stats
 <p align="center">
